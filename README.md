@@ -1,1 +1,8 @@
-# hg_1_delta
+# Delta
+
+| Usuario       | Nombre        | Ubicacion
+| ------------- | ------------- | ------------- |
+| Alfa          | Eduardo       | Caracas
+| Bravo         | Sebastian     | Valencia
+| Charlie       | Jessica       | Caracas
+| Delta         | Yoel          | Caracas
